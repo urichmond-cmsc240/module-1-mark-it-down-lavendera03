@@ -13,4 +13,5 @@
 
  **Favorite Song**: [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa) by Noah Kahan
 
-[![Busyhead Album Cover](busyhead.png)](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa)
+
+[![Busyhead Album Cover](busyhead_album_cover.png)](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa)
