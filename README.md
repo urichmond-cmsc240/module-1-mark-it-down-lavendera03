@@ -12,4 +12,5 @@
  - Watching comedy shows and mockumentaries! 
 
  **Favorite Song**: [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa) by Noah Kahan
-[![Busyhead Album Cover](vscode-local:/c%3A/Users/alici/Downloads/busyhead_cover)](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa)
+
+[![Busyhead Album Cover](c:\Users\alici\Pictures\Screenshots\busyhead.png)](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa)
