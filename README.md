@@ -1,6 +1,6 @@
 # Alicia Lavender 
 
-![A Photo of Alicia Lavender Circa 2024](personal_photo.jpg)
+![A Photo of Alicia Lavender Circa 2024](photo.jpg)
 **NetID: alavender  | Username: lavendera03**
 
 *Pronouns: (She/Her)* | *Cognitive Science & CS - University of Richmond '28*
