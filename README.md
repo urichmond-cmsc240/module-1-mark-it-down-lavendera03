@@ -1,11 +1,13 @@
 # Alicia Lavender 
+
 ![A Photo of Alicia Lavender Circa 2024](personal_photo.jpg)
-**NetID: alavender  | lavendera03**
-*Pronouns (She/Her)* | *Cognitive Science & CS - University of Richmond '28*
+**NetID: alavender  | Username: lavendera03**
+
+*Pronouns: (She/Her)* | *Cognitive Science & CS - University of Richmond '28*
 ---
 **Hobbies**
  - Reading
  - Cooking/Baking
  - Watching comedy shows and mockumentaries! 
 
- **Favorite Song**: ![Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa) by Noah Kahan
+ **Favorite Song**: [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5?si=6267ab92d8364eaa) by Noah Kahan
